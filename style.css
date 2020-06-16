@@ -1,0 +1,55 @@
+// it is another folder in your project (CSS)
+
+body{
+	background-color: burlyWood;
+}
+
+h1{
+	color: brown ; 
+	font-size : 20px ; 
+	font-family : Arial; 
+	width: 100%;
+	padding: 0.5em;
+}
+
+table{
+	margin: 0.3em;
+	border-radius: 2px;
+    text-align: center;
+    padding: 12px;
+}
+
+table th{
+		padding: 4px;
+		margin: 0.8em auto;
+		border: solid 1px black;
+}
+
+table tr{
+	padding: 4px;
+	margin: 1.5em auto;
+	border: solid 1px black;
+
+}
+
+thead{
+	background-color: brown;
+
+}
+
+tr:nth-child(even){
+		background-color: #ddd;
+}
+
+p {
+
+	color: brown ;
+	margin: 0.8em auto;
+}
+
+.uno a{
+	text-decoration: none;
+	border: 1px solid gray;
+}
+
+
