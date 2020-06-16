@@ -1,6 +1,8 @@
 # Web-Technology-
 Subject in Craiova University
 
+It's a Library to introduce the web programming lenguajes 
+
 
 # CREATE DATABASE
 
