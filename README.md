@@ -6,7 +6,7 @@ Subject in Craiova University
 
 
 
->>/usr/local/mysql/bin/mysql -u root -p
+> > /usr/local/mysql/bin/mysql -u root -p
 
 mysql> show databases;
 
